@@ -1,9 +1,10 @@
-
-
+import Chai from './chai.jsx'
 function App() {
-  
   return (
-    <h1>Helloworld with Vite | Javwad</h1>
+    <>
+    <Chai/>
+    <h6>My name is javwad</h6>
+    </>
   )
 }
 
